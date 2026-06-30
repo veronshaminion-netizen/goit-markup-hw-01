@@ -1,0 +1,32 @@
+ .logo{
+    color:#4D5AE5;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    font-style: bold;
+    line-height: 24px;
+    letter-spacing: 0.03;
+    text-transform: uppercase;
+    text-decoration: none;
+ }
+ .accent{
+    color:#2E2F42;
+ }
+ .menu a{
+    color:#2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02;
+    font-style: medium;
+    text-decoration: none;
+ }
+ .contacts a{
+    color:#434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02;
+    font-style: normal;
+    text-decoration: none;
+}

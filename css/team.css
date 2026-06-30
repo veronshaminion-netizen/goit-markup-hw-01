@@ -1,0 +1,33 @@
+#team{
+    background-color: #F4F4FD;
+}
+.team-title{
+    color:#2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02;
+    font-style: bold; 
+    text-align: center;
+}
+.team-list li{
+    background-color:#FFFFFF;
+}
+.team-list h3{
+    color:#2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02;
+    font-style: medium; 
+    text-align: center;
+}
+.team-list p{
+    color:#434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02;
+    font-style: normal; 
+    text-align: center;
+}   

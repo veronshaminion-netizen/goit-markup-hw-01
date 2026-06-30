@@ -1,0 +1,24 @@
+.portfolio-title {
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02;
+    font-weight: 700;
+    text-align: center;
+    font-style: bold;
+}
+.portfolio-list h3 {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02;
+    font-style: medium; 
+}
+.portfolio-list p {
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02;
+    font-style: normal; 
+}
