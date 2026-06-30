@@ -30,23 +30,19 @@
     font-style: normal;
     text-decoration: none;
 }
-.portfolio-link:hover {
+.portfolio-link:hover:focus {
     color: #404BBF;
 }
 
-.features-link:hover {
+.features-link:hover:focus {
     color: #404BBF;
 }
 
-.team-link:hover {
+.team-link:hover:focus {
     color: #404BBF;
 }
 
-.features-link:focus {
-    color: #404BBF;
-    text-decoration: underline;
-}
 
-.contacts-link:hover {
+.contacts-link:hover:focus {
     color: #404BBF;
 }

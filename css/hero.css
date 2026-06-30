@@ -1,13 +1,12 @@
-#hero {
+.hero {
     background-color:#2E2F42;
 }
 .hero-title{
     color:#FFFFFF;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 0.02em;
-    font-style: bold;
     text-align: center;
 }
 .button{
@@ -15,11 +14,10 @@
     background-color:#4D5AE5;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.04em;
-    font-style: medium;
     text-align: center;
 }
-button:hover:focus{
-    color: #404BBF;
+.button:hover:focus{
+    background-color: #404BBF;
 }
