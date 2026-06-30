@@ -17,8 +17,8 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.02;
-    font-style: medium;
+    letter-spacing: 0.02em;
+    font-style: normal;
     text-decoration: none;
  }
  .contacts a{
@@ -26,7 +26,27 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     font-style: normal;
     text-decoration: none;
+}
+.portfolio-link:hover {
+    color: #404BBF;
+}
+
+.features-link:hover {
+    color: #404BBF;
+}
+
+.team-link:hover {
+    color: #404BBF;
+}
+
+.features-link:focus {
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+.contacts-link:hover {
+    color: #404BBF;
 }

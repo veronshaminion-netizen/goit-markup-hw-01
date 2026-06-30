@@ -6,7 +6,7 @@
     font-weight: 700;
     font-size: 56px;
     line-height: 60px;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     font-style: bold;
     text-align: center;
 }
@@ -16,7 +16,10 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.04;
+    letter-spacing: 0.04em;
     font-style: medium;
     text-align: center;
+}
+button:hover:focus{
+    color: #404BBF;
 }

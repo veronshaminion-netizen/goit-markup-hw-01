@@ -1,12 +1,12 @@
-#team{
+.team{
     background-color: #F4F4FD;
 }
 .team-title{
     color:#2E2F42;
     font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
-    letter-spacing: 0.02;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     font-style: bold; 
     text-align: center;
 }
@@ -17,8 +17,8 @@
     color:#2E2F42;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     font-style: medium; 
     text-align: center;
 }
@@ -26,8 +26,8 @@
     color:#434455;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     font-style: normal; 
     text-align: center;
 }   

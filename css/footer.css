@@ -1,12 +1,12 @@
-#footer{
+.footer{
     background-color: #2E2F42;
 }
 .footer-logo{
     color:#4D5AE5;
     font-weight: 700;
     font-size: 18px;
-    line-height: 24px;
-    letter-spacing: 0.03;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
     font-style: bold; 
     text-transform: uppercase;
     text-decoration: none;
@@ -14,11 +14,11 @@
 .accent-footer{
     color:#F4F4FD;
 }
-#footer p{
+.footer-text{
     color:#F4F4FD;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     font-style: normal; 
 }
