@@ -4,8 +4,8 @@
     font-size: 18px;
     font-family: 'Raleway', sans-serif;
     font-style: bold;
-    line-height: 24px;
-    letter-spacing: 0.03;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
  }
@@ -16,7 +16,7 @@
     color:#2E2F42;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     font-style: normal;
     text-decoration: none;
@@ -25,24 +25,36 @@
     color:#434455;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     font-style: normal;
     text-decoration: none;
 }
-.portfolio-link:hover:focus {
+.portfolio-link:hover{
+    color: #404BBF;
+}
+.portfolio-link:focus {
     color: #404BBF;
 }
 
-.features-link:hover:focus {
+.features-link:hover{
+    color: #404BBF;
+}
+.features-link:focus {
     color: #404BBF;
 }
 
-.team-link:hover:focus {
+.team-link:hover{
+    color: #404BBF;
+}
+.team-link:focus {
     color: #404BBF;
 }
 
 
-.contacts-link:hover:focus {
+.contacts-link:hover{
+    color: #404BBF;
+}
+.contacts-link:focus {
     color: #404BBF;
 }
